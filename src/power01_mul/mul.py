@@ -1,3 +1,4 @@
-def mul():
-    print("mul")
+def mul(a,b):
+    ans = a*b
+    print(ans)
     
